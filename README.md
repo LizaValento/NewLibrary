@@ -1,7 +1,7 @@
 Установка
 Склонируйте репозиторий:
 
-git clone https://github.com/LizaValento/NewLibrary
+git clone https://github.com/LizaValento/NewLibrary/tree/master
 
 Откройте проект:
 
