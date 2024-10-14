@@ -1,0 +1,12 @@
+F:\Interviews\LibraryNewStructure\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+F:\Interviews\LibraryNewStructure\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Interviews\LibraryNewStructure\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+F:\Interviews\LibraryNewStructure\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+F:\Interviews\LibraryNewStructure\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+F:\Interviews\LibraryNewStructure\Domain\bin\Debug\net7.0\Domain.deps.json
+F:\Interviews\LibraryNewStructure\Domain\bin\Debug\net7.0\Domain.dll
+F:\Interviews\LibraryNewStructure\Domain\bin\Debug\net7.0\Domain.pdb
+F:\Interviews\LibraryNewStructure\Domain\obj\Debug\net7.0\Domain.dll
+F:\Interviews\LibraryNewStructure\Domain\obj\Debug\net7.0\refint\Domain.dll
+F:\Interviews\LibraryNewStructure\Domain\obj\Debug\net7.0\Domain.pdb
+F:\Interviews\LibraryNewStructure\Domain\obj\Debug\net7.0\ref\Domain.dll
